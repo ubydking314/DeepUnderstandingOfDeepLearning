@@ -1,1 +1,0 @@
-# Lipophilicity-GNN
